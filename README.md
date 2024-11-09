@@ -6,6 +6,8 @@
 
 ![Rafa GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafa&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadevy&layout=compact)
+
 ### Tecnologias que uso
 
 <div style="display: inline_block"><br>
