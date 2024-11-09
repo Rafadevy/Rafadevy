@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá 👋
 
-<!--
-**Rafadevy/Rafadevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silva-souza-3972762b5/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rf.deev/profilecard/?igsh=NjkzeWNhMDJzdzQz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Rafa GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafa&show_icons=true&theme=dracula)
+
+### Tecnologias que uso
+
+<div style="display: inline_block"><br>
+    <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<div>
