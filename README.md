@@ -7,7 +7,7 @@
 
 ![Rafa GitHub stats](https://github-readme-stats.vercel.app/api?username=rafadevy&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadevy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadevy&layout=compact&theme=dark)
 
 ### Tecnologias que uso
 
